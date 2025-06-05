@@ -1,0 +1,107 @@
+[
+  {
+    "package": "boto3",
+    "min_version": "1.38.24",
+    "max_version": "1.999.999"
+  },
+  {
+    "package": "botocore",
+    "min_version": "1.38.24",
+    "max_version": "1.999.999"
+  },
+  {
+    "package": "configparser",
+    "min_version": "7.2.0",
+    "max_version": "7.999.999"
+  },
+  {
+    "package": "pandas",
+    "min_version": "2.2.3",
+    "max_version": "2.999.999"
+  },
+  {
+    "package": "pytz",
+    "min_version": "2025.2",
+    "max_version": "2025.999.999"
+  },
+  {
+    "package": "opensearch-dsl",
+    "min_version": "2.1.0",
+    "max_version": "2.999.999"
+  },
+  {
+    "package": "pydantic",
+    "min_version": "2.11.5",
+    "max_version": "2.999.999"
+  },
+  {
+    "package": "pydantic-settings",
+    "min_version": "2.9.1",
+    "max_version": "2.999.999"
+  },
+  {
+    "package": "fastapi[all]",
+    "min_version": "0.115.12",
+    "max_version": "0.115.999"
+  },
+  {
+    "package": "uvicorn",
+    "min_version": "0.34.2",
+    "max_version": "0.34.999"
+  },
+  {
+    "package": "sqlalchemy",
+    "min_version": "2.0.41",
+    "max_version": "2.999.999"
+  },
+  {
+    "package": "asyncpg",
+    "min_version": "0.30.0",
+    "max_version": "0.30.999"
+  },
+  {
+    "package": "langchain",
+    "min_version": "0.0.1",
+    "max_version": "0.3.999"
+  },
+  {
+    "package": "langchain-openai",
+    "min_version": "0.3.18",
+    "max_version": "0.3.999"
+  },
+  {
+    "package": "jsonschema",
+    "min_version": "4.24.0",
+    "max_version": "4.999.999"
+  },
+  {
+    "package": "greenlet",
+    "min_version": "3.2.2",
+    "max_version": "3.999.999"
+  },
+  {
+    "package": "pytesseract",
+    "min_version": "0.3.13",
+    "max_version": "0.3.999"
+  },
+  {
+    "package": "python-docx",
+    "min_version": "1.1.2",
+    "max_version": "1.999.999"
+  },
+  {
+    "package": "opencv-python",
+    "min_version": "4.11.0.86",
+    "max_version": "4.999.999"
+  },
+  {
+    "package": "openpyxl",
+    "min_version": "3.1.5",
+    "max_version": "3.999.999"
+  },
+  {
+    "package": "psycopg2-binary",
+    "min_version": "2.9.10",
+    "max_version": "2.999.999"
+  }
+]
