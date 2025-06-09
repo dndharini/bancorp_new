@@ -1,0 +1,23 @@
+asyncpg                   0.30.0      An asyncio PostgreSQL driver
+boto3                     1.38.25     The AWS SDK for Python
+botocore                  1.38.25     Low-level, data-driven core of boto 3.
+configparser              7.2.0       Updated configparser from stdlib for earlier Pythons.
+fastapi                   0.115.12    FastAPI framework, high performance, easy to learn, fast to code, ready for production
+greenlet                  3.2.2       Lightweight in-process concurrent programming
+jsonschema                4.24.0      An implementation of JSON Schema validation for Python
+langchain                 0.3.25      Building applications with LLMs through composability
+langchain-openai          0.3.18      An integration package connecting OpenAI and LangChain
+opencv-python             4.11.0.86   Wrapper package for OpenCV python bindings.
+openpyxl                  3.1.5       A Python library to read/write Excel 2010 xlsx/xlsm files
+opensearch-dsl            2.1.0       Python client for OpenSearch
+pandas                    2.2.3       Powerful data structures for data analysis, time series, and statistics
+presidio-analyzer         2.2.358     Presidio Analyzer package
+presidio-anonymizer       2.2.358     Presidio Anonymizer package - replaces analyzed text with desired values.
+psycopg2-binary           2.9.10      psycopg2 - Python-PostgreSQL Database Adapter
+pydantic                  2.11.5      Data validation using Python type hints
+pydantic-settings         2.9.1       Settings management using Pydantic
+pytesseract               0.3.13      Python-tesseract is a python wrapper for Google's Tesseract-OCR
+python-docx               1.1.2       Create, read, and update Microsoft Word .docx files.
+pytz                      2025.2      World timezone definitions, modern and historical
+sqlalchemy                2.0.41      Database Abstraction Library
+uvicorn                   0.34.2      The lightning-fast ASGI server.
